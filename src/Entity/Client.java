@@ -14,6 +14,7 @@ public class Client {
 	private int month;
 	private int day;
 	private String details;
+	private int prueba;
 	public Client() {
 		super();
 		// TODO Auto-generated constructor stub
